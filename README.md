@@ -1,13 +1,13 @@
 ### Installing
 
 ```
-git clone https://gitlab.com/agh-to-2017/wt-1250-zolwie-ninja.git
+git clone https://github.com/pannagabriella/LOGO-Parser-Executor
 ```
 
 ### Running
 
 ```
-cd wt-1250-zolwie-ninja
+cd LOGO-Parser-Executor
 ./gradlew run           // or just gradlew run on Windows Command Prompt
 ```
 
