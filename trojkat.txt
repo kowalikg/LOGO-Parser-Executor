@@ -1,0 +1,3 @@
+pw 180
+oto trojkat (bok) {powtorz 3 [np bok pw 120]}
+powtorz 8 [trojkat 30 trojkat 90 pw 45]

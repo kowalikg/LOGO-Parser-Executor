@@ -1,0 +1,2 @@
+oto zabek (bum) { pw 90 np 20 lw 90 np 40 pw 90 np 40 pw 90 np 20 pw 90 np 20 lw 90 np 20 lw 90 }
+powtorz 4 [powtorz 2 [zabek 0] pw 90]

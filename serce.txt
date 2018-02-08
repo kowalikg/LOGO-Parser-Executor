@@ -1,0 +1,3 @@
+oto kolo (promien) {powtorz 360 [np promien pw 1]}
+pw 180
+powtorz 180 [kolo 1 pw 1]

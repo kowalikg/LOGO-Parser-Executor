@@ -1,0 +1,4 @@
+pw 90 pdn np 100 ops lw 90 
+powtorz 20 [lw 18 np 40] 
+pdn ws 20 ops lw 72 
+powtorz 5 [np 235 lw 144]

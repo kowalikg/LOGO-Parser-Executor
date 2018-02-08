@@ -1,0 +1,2 @@
+oto kolo (promien) {powtorz 36 [np promien pw 10]}
+powtorz 8 [kolo 10 pw 45]

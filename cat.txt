@@ -1,0 +1,87 @@
+lw 90
+np 50
+pw 135
+np 50
+lw 90
+powtorz 19 [np 5 pw 5]
+lw 5
+lw 90
+np 50
+pw 135
+np 50
+np 40
+powtorz 19 [pw 5 np 5]
+lw 5
+np 31
+lw 5
+powtorz 18 [pw 5 np 5]
+pw 5
+np 40
+oto kolo (luk) { powtorz 36 [np luk pw 10] }
+oto was (nic) { pdn np 10 ops np 50 pdn ws 50 ws 10 }
+pdn
+pw 90
+np 40
+ops
+kolo 2
+pw 90
+np 22
+pdn
+ws 22
+lw 90
+np 75
+ops
+kolo 2
+pw 90
+np 22
+pdn
+ws 22
+lw 90
+ws 45
+pw 90
+np 50
+lw 90
+ops
+np 15
+pw 135
+np 10
+pw 90
+np 10
+pdn
+ws 10
+lw 135
+ops
+np 15
+lw 90
+np 15
+lw 45
+np 15
+pdn
+ws 15
+pw 45
+ws 15
+pw 180
+ops
+np 15
+pw 45
+np 15
+pdn
+ws 15
+lw 45
+ws 15
+pw 90
+np 15
+pw 90
+np 45
+lw 20
+powtorz 3 [ was 1 pw 20 ]
+lw 40
+ws 45
+pw 180
+np 45
+lw 20
+powtorz 3 [ was 1 pw 20 ]
+lw 40
+pw 180
+pdn
+ws 200
